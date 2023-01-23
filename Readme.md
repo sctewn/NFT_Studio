@@ -21,13 +21,13 @@ If you really want to enter in the NFT market you must know some basics that i h
 Sites where to sell:
 
 ETH:
-a. opensea.io
-b. Foundation
-c. Manifold
-d. rarible
-e. knownorigin.io
+- opensea.io
+- Foundation
+- Manifold
+- rarible
+- knownorigin.io
 
 Tezos (maybe have low prices, but check on it):
-a. objkt.com <- Good place to start
+- objkt.com <- Good place to start
 
 There ir plenty more but i forgot all the names.
